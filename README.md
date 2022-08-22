@@ -1,4 +1,4 @@
-# TTS-Tourism-Demo
+# Text-To-Speech
 
 With this sample app, you can:
 
